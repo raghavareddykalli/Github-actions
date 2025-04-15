@@ -1,5 +1,4 @@
 # app.py
-# Sample
 def add(a, b):
     return a + b
 
